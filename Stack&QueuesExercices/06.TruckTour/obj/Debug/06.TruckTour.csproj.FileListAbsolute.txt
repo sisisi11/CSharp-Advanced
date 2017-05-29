@@ -1,0 +1,2 @@
+C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\06.TruckTour\obj\Debug\06.TruckTour.csprojResolveAssemblyReference.cache

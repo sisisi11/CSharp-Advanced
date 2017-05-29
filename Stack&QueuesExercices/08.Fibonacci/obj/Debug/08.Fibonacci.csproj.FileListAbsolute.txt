@@ -1,0 +1,1 @@
+C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\08.Fibonacci\bin\Debug\08.Fibonacci.exe.config
