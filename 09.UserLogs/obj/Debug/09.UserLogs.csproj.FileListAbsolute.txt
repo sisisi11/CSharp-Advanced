@@ -1,0 +1,6 @@
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\09.UserLogs\bin\Debug\09.UserLogs.exe.config
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\09.UserLogs\bin\Debug\09.UserLogs.exe
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\09.UserLogs\bin\Debug\09.UserLogs.pdb
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\09.UserLogs\obj\Debug\09.UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\09.UserLogs\obj\Debug\09.UserLogs.exe
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\09.UserLogs\obj\Debug\09.UserLogs.pdb

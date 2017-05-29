@@ -1,0 +1,3 @@
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\11.LegendaryFarming\bin\Debug\11.LegendaryFarming.exe.config
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\11.LegendaryFarming\obj\Debug\11.LegendaryFarming.exe
+C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\11.LegendaryFarming\obj\Debug\11.LegendaryFarming.pdb
