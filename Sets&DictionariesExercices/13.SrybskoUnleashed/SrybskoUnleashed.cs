@@ -9,12 +9,12 @@ namespace _13.SrybskoUnleashed
     {
         static void Main()
         {
-            var venues = new Dictionary<string, Dictionary<string, int>>();
+            Dictionary<string, Dictionary<string, int>> venues = new Dictionary<string, Dictionary<string, int>>();
             var line = Console.ReadLine();
 
-            while (line != "END")
+            while (line != "End")
             {
-                var venueTokens =  line.Split(new [] {" @" }, StringSplitOptions.RemoveEmptyEntries);
+                var venueTokens = line.Split(new[] { " @" }, StringSplitOptions.RemoveEmptyEntries);
                 if (!(venueTokens.Length > 1))
                 {
                     line = Console.ReadLine();
@@ -29,7 +29,7 @@ namespace _13.SrybskoUnleashed
                 try
                 {
                     ticketPrice = int.Parse(venueAndTickets[venueAndTickets.Length - 2]);
-                    ticketPrice = int.Parse(venueAndTickets[venueAndTickets.Length - 1]);
+                    ticketCount = int.Parse(venueAndTickets[venueAndTickets.Length - 1]);
 
                 }
                 catch (Exception e)
@@ -38,16 +38,38 @@ namespace _13.SrybskoUnleashed
                     continue;
                 }
                 var venue = new StringBuilder();
+
                 for (int i = 0; i < venueAndTickets.Length - 2; i++)
                 {
-                    venue.Append(venueAndTickets[i]);
+                    venue.Append(venueAndTickets[i]);   // Vzimame Scenata ot inputa
+                    venue.Append(" ");  // izugbvame space pri append
                 }
+
                 if (venues.ContainsKey(venue.ToString()))
                 {
-                    venues[venues.ToString()] = new Dictionary<string, int>{ {singer, ticketPrice*ticketCount} };
+                    if (venues[venue.ToString()].ContainsKey(singer))
+                    {
+                        venues[venue.ToString()][singer] += ticketCount * ticketPrice;
+                    }
+                    else
+                    {
+                        venues[venue.ToString()].Add(singer, ticketCount * ticketPrice);
+                    }
+                }
+                else
+                {
+                    venues[venue.ToString()] = new Dictionary<string, int> { { singer, ticketCount * ticketPrice } };
                 }
 
                 line = Console.ReadLine();
+            }
+            foreach (var venue in venues)
+            {
+                Console.WriteLine(venue.Key);
+                foreach (var singer in venue.Value.OrderByDescending(x => x.Value))
+                {
+                    Console.WriteLine($"#  {singer.Key} -> {singer.Value}");
+                }
             }
         }
     }

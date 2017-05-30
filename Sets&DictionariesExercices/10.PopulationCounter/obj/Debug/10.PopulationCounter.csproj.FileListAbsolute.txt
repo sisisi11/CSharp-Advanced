@@ -4,3 +4,6 @@ C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\10.PopulationCou
 C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\10.PopulationCounter\obj\Debug\10.PopulationCounter.csprojResolveAssemblyReference.cache
 C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\10.PopulationCounter\obj\Debug\10.PopulationCounter.exe
 C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\10.PopulationCounter\obj\Debug\10.PopulationCounter.pdb
+C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\10.PopulationCounter\bin\Debug\10.PopulationCounter.exe.config
+C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\10.PopulationCounter\obj\Debug\10.PopulationCounter.exe
+C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\10.PopulationCounter\obj\Debug\10.PopulationCounter.pdb
