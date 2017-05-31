@@ -4,3 +4,6 @@ C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\05.Phonebook\bin
 C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache
 C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\05.Phonebook\obj\Debug\05.Phonebook.exe
 C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\05.Phonebook\obj\Debug\05.Phonebook.pdb
+C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\05.Phonebook\bin\Debug\05.Phonebook.exe.config
+C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\05.Phonebook\obj\Debug\05.Phonebook.exe
+C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\05.Phonebook\obj\Debug\05.Phonebook.pdb
