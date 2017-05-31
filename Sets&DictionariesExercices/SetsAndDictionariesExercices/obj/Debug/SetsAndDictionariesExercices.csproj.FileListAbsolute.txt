@@ -1,9 +1,0 @@
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\SetsAndDictionariesExercices\bin\Debug\SetsAndDictionariesExercices.exe.config
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\SetsAndDictionariesExercices\bin\Debug\SetsAndDictionariesExercices.exe
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\SetsAndDictionariesExercices\bin\Debug\SetsAndDictionariesExercices.pdb
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\SetsAndDictionariesExercices\obj\Debug\SetsAndDictionariesExercices.csprojResolveAssemblyReference.cache
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\SetsAndDictionariesExercices\obj\Debug\SetsAndDictionariesExercices.exe
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\SetsAndDictionariesExercices\obj\Debug\SetsAndDictionariesExercices.pdb
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\SetsAndDictionariesExercices\bin\Debug\SetsAndDictionariesExercices.exe.config
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\SetsAndDictionariesExercices\obj\Debug\SetsAndDictionariesExercices.exe
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\SetsAndDictionariesExercices\obj\Debug\SetsAndDictionariesExercices.pdb

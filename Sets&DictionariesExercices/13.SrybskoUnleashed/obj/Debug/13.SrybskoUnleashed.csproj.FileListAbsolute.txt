@@ -1,7 +1,0 @@
-C:\Users\Acasa\Desktop\C# Advanced\SetsAndDictionariesExercices\13.SrybskoUnleashed\bin\Debug\13.SrybskoUnleashed.exe.config
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\13.SrybskoUnleashed\bin\Debug\13.SrybskoUnleashed.exe.config
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\13.SrybskoUnleashed\bin\Debug\13.SrybskoUnleashed.exe
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\13.SrybskoUnleashed\bin\Debug\13.SrybskoUnleashed.pdb
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\13.SrybskoUnleashed\obj\Debug\13.SrybskoUnleashed.csprojResolveAssemblyReference.cache
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\13.SrybskoUnleashed\obj\Debug\13.SrybskoUnleashed.exe
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\13.SrybskoUnleashed\obj\Debug\13.SrybskoUnleashed.pdb

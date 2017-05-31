@@ -1,6 +1,0 @@
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\14.LegnedaryFarming\bin\Debug\14.LegnedaryFarming.exe.config
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\14.LegnedaryFarming\bin\Debug\14.LegnedaryFarming.exe
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\14.LegnedaryFarming\bin\Debug\14.LegnedaryFarming.pdb
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\14.LegnedaryFarming\obj\Debug\14.LegnedaryFarming.csprojResolveAssemblyReference.cache
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\14.LegnedaryFarming\obj\Debug\14.LegnedaryFarming.exe
-C:\Users\Acasa\Source\Repos\CSharp-Advanced\Sets&DictionariesExercices\14.LegnedaryFarming\obj\Debug\14.LegnedaryFarming.pdb

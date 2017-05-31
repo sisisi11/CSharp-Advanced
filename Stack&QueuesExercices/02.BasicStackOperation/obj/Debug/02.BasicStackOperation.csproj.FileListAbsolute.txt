@@ -1,5 +1,0 @@
-C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\02.BasicStackOperation\bin\Debug\02.BasicStackOperation.exe.config
-C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\02.BasicStackOperation\bin\Debug\02.BasicStackOperation.exe
-C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\02.BasicStackOperation\bin\Debug\02.BasicStackOperation.pdb
-C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\02.BasicStackOperation\obj\Debug\02.BasicStackOperation.exe
-C:\Users\Acasa\Desktop\C# Advanced\StacksAndQueuesExercices\02.BasicStackOperation\obj\Debug\02.BasicStackOperation.pdb
