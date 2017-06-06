@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualStringProcess(LAB)", "ManualStringProcess(LAB)\ManualStringProcess(LAB).csproj", "{E8697DD3-D8F2-4677-88ED-4E7464AAAA62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StudentResults", "01.StudentResults\01.StudentResults.csproj", "{851818D0-9B49-48D8-81A7-FE053E84D79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ParseUrl", "02.ParseUrl\02.ParseUrl.csproj", "{C94C64A4-60EF-4154-909A-CE5ADBD2E0D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ParseTags", "03.ParseTags\03.ParseTags.csproj", "{0AE135A0-80CE-468F-A131-498030468B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SpecialWords", "04.SpecialWords\04.SpecialWords.csproj", "{D658D3AC-38C5-4C12-A2CE-86B984BC3F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ConcatStrings", "05.ConcatStrings\05.ConcatStrings.csproj", "{03072331-583F-4076-BCF6-357B5027EB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8697DD3-D8F2-4677-88ED-4E7464AAAA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8697DD3-D8F2-4677-88ED-4E7464AAAA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8697DD3-D8F2-4677-88ED-4E7464AAAA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8697DD3-D8F2-4677-88ED-4E7464AAAA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851818D0-9B49-48D8-81A7-FE053E84D79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851818D0-9B49-48D8-81A7-FE053E84D79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851818D0-9B49-48D8-81A7-FE053E84D79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851818D0-9B49-48D8-81A7-FE053E84D79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94C64A4-60EF-4154-909A-CE5ADBD2E0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94C64A4-60EF-4154-909A-CE5ADBD2E0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94C64A4-60EF-4154-909A-CE5ADBD2E0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94C64A4-60EF-4154-909A-CE5ADBD2E0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE135A0-80CE-468F-A131-498030468B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE135A0-80CE-468F-A131-498030468B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE135A0-80CE-468F-A131-498030468B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE135A0-80CE-468F-A131-498030468B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D658D3AC-38C5-4C12-A2CE-86B984BC3F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D658D3AC-38C5-4C12-A2CE-86B984BC3F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D658D3AC-38C5-4C12-A2CE-86B984BC3F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D658D3AC-38C5-4C12-A2CE-86B984BC3F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03072331-583F-4076-BCF6-357B5027EB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03072331-583F-4076-BCF6-357B5027EB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03072331-583F-4076-BCF6-357B5027EB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03072331-583F-4076-BCF6-357B5027EB57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
