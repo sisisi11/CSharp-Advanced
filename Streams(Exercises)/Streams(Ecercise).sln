@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddLines", "Problem 1. Odd Lines\01.OddLines.csproj", "{3021079A-52C4-4EC8-B77A-0B5DB9D6B684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumber", "Problem 2. Line Numbers\02.LineNumber.csproj", "{881D5843-9C4E-4169-B4CA-80E1519E65B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount", "Problem 3. Word Count\03.WordCount.csproj", "{5C7155B5-3915-492C-99FB-3B66D7800D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CopyBinaryFile", "Problem 4. Copy Binary File\04.CopyBinaryFile.csproj", "{7DA56F65-006B-4BDF-87C8-FC6F29DB821A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SlicingFile", "Problem 5. Slicing File\05.SlicingFile.csproj", "{0A4D1704-14F6-44C6-941D-653C3EEF81DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ZippingSlicedFiles", "Problem 6. Zipping Sliced Files\06.ZippingSlicedFiles.csproj", "{5BEE6C87-B0DA-4185-950C-41ACD8FA3DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.DirectoryTraversal", "Problem 7. Directory Traversal\07.DirectoryTraversal.csproj", "{BAB71ABF-081C-483B-8193-9D2D4EDE5F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3021079A-52C4-4EC8-B77A-0B5DB9D6B684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021079A-52C4-4EC8-B77A-0B5DB9D6B684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021079A-52C4-4EC8-B77A-0B5DB9D6B684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021079A-52C4-4EC8-B77A-0B5DB9D6B684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881D5843-9C4E-4169-B4CA-80E1519E65B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881D5843-9C4E-4169-B4CA-80E1519E65B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881D5843-9C4E-4169-B4CA-80E1519E65B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881D5843-9C4E-4169-B4CA-80E1519E65B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7155B5-3915-492C-99FB-3B66D7800D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7155B5-3915-492C-99FB-3B66D7800D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7155B5-3915-492C-99FB-3B66D7800D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7155B5-3915-492C-99FB-3B66D7800D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA56F65-006B-4BDF-87C8-FC6F29DB821A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA56F65-006B-4BDF-87C8-FC6F29DB821A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA56F65-006B-4BDF-87C8-FC6F29DB821A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA56F65-006B-4BDF-87C8-FC6F29DB821A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4D1704-14F6-44C6-941D-653C3EEF81DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4D1704-14F6-44C6-941D-653C3EEF81DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4D1704-14F6-44C6-941D-653C3EEF81DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4D1704-14F6-44C6-941D-653C3EEF81DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEE6C87-B0DA-4185-950C-41ACD8FA3DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEE6C87-B0DA-4185-950C-41ACD8FA3DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEE6C87-B0DA-4185-950C-41ACD8FA3DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEE6C87-B0DA-4185-950C-41ACD8FA3DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB71ABF-081C-483B-8193-9D2D4EDE5F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB71ABF-081C-483B-8193-9D2D4EDE5F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB71ABF-081C-483B-8193-9D2D4EDE5F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB71ABF-081C-483B-8193-9D2D4EDE5F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

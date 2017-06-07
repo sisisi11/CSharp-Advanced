@@ -11,7 +11,7 @@
             var dictionary = new Dictionary<string, int>();
             var keyWords = Console.ReadLine().Split();
             var inputLine = Console.ReadLine().Split(
-                new string[] { "(", ")", "[", "]", "<", ">", ",", "-", "!", "?", " ", },
+                new string[] { "(", ")", "[", "]", "<", ">", ",", "-", "!", "?", " "},
                 StringSplitOptions.RemoveEmptyEntries);
             for (int i = 0; i < keyWords.Length; i++)
             {
