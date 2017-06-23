@@ -1,10 +1,6 @@
-﻿using System.Runtime.InteropServices;
-using System.Security.Permissions;
-
-namespace _06.TargetPractice
+﻿namespace _06.TargetPractice
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
     public class TargetPractice
     {

@@ -3,8 +3,6 @@
 namespace _01.ReverseStrings
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     public class ReverseString
     {
         public static void Main()

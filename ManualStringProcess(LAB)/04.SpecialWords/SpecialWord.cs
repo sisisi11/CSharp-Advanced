@@ -2,8 +2,6 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
-
     public class SpecialWord
     {
         public static void Main()
@@ -32,6 +30,6 @@
                 Console.WriteLine($"{word.Key} - {word.Value}");
             }
         }
-    }
+    }   
 }
 

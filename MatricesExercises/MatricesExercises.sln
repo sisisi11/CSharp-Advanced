@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MatrixOfPalindromes", "01.MatrixOfPalindromes\01.MatrixOfPalindromes.csproj", "{B2CF93AE-A60D-4A55-ACD0-53D9C4DF4F09}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{B9CAB51A-83E7-4901-A429-34314FB74E7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HeiganDance", "10.HeiganDance\10.HeiganDance.csproj", "{F66AEC45-BBF1-4FB1-B123-63CB990F8A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ParkingSystem", "11.ParkingSystem\11.ParkingSystem.csproj", "{21C08726-C936-422B-9FB3-4F8D0340E0FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F66AEC45-BBF1-4FB1-B123-63CB990F8A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F66AEC45-BBF1-4FB1-B123-63CB990F8A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F66AEC45-BBF1-4FB1-B123-63CB990F8A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C08726-C936-422B-9FB3-4F8D0340E0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C08726-C936-422B-9FB3-4F8D0340E0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C08726-C936-422B-9FB3-4F8D0340E0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C08726-C936-422B-9FB3-4F8D0340E0FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
